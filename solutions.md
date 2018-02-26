@@ -1,1 +1,2 @@
+- [BinaryGap](https://app.codility.com/demo/results/training9VUWSZ-34K/)
 - [OddOccurancesInArray](https://app.codility.com/demo/results/trainingD96UHB-W39/)
